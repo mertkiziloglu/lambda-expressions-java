@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/02/demos/02_Writing-Lambda-Expressions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02/demos/02_Writing-Lambda-Expressions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03/demos/03_Composing-and-Chaining/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03/demos/03_Composing-and-Chaining/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04/demos/04_Using-Method-References/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04/demos/04_Using-Method-References/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05/demos/05_Creating-Comparators/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05/demos/05_Creating-Comparators/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06/demos/06_Designing-a-Text-File-Analyzer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06/demos/06_Designing-a-Text-File-Analyzer/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
